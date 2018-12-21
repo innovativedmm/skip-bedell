@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>Skip Bedell Website Overload!</title>
+<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <style type="text/css" media="screen">
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+	  @font-face {
+	    font-family: 'Impress';
+		src: url('../fonts/Impress.ttf') format('truetype');
+	  }
 
-You can use the [editor on GitHub](https://github.com/innovativedmm/skipbedell/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
 
-### Markdown
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; font-family: 'Anton', sans-serif; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+	    
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    </style>
+</head>
+  <body>
 
-```markdown
-Syntax highlighted code block
+    <div class="container">
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/innovativedmm/skipbedell/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      <p><strong>Skip Bedell's website is currently having issues due to a large volume of people viewing at one time.</strong> Check back later or see <a href="https://twitter.com/skipbedell">Our Twitter</a> for updates.</p>
+	   
+	  
+	  <p>
+	  ::ALWAYS_ONLINE_NO_COPY_BOX::
+	  </p>
+    </div>
+  </body>
+</html>
